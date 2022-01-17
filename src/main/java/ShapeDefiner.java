@@ -1,5 +1,5 @@
 public class ShapeDefiner {
-    public String shapeName (Shape shape) {
+    public String shapeName(Shape shape) {
         return shape.getName();
     }
 }
